@@ -1,0 +1,13 @@
+---
+layout: layouts/base.webc
+title: 'Home'
+meta:
+  desc:
+    'AMORC Austral-asia regional convention - Adelaide, AU | Auckland, NZ | Singapore, SG'
+---
+<section class="relative flex flex-col items-center justify-start gap-16 grow bg-blue-650 bg-stella-lattice overflow-clip">
+  <img class="max-w-none w-256 -m-4" src="https://res.cloudinary.com/amorc/image/upload/v1678161343/amorc_stella/stella_milky-way-revised_u0tqo2.svg" alt="Stylised Milky Way Graphic">
+  <img class="w-128 p-2 xs:p-8" src="https://res.cloudinary.com/amorc/image/upload/v1678161342/amorc_stella/stella_hero-title-stella2024_mzwy0l.svg" alt="Stella Convention Logo">
+  <a href="https://events.humanitix.com/amorc-stella-conference-2023" class="text-white bg-red-1000 font-bold rounded px-8 py-2">Register Now</a>
+  <!-- <img class="hidden xs:block absolute -rotate-90 bottom-0 -left-8 mb-24" src="https://res.cloudinary.com/amorc/image/upload/v1678165887/amorc_stella/stella-vine-white_yl9cr7.svg" alt="Vines Flourish"> -->
+</section>
