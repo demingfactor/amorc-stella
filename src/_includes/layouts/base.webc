@@ -21,6 +21,7 @@
     <link rel="mask-icon" href="/favicon.svg" color="#4a5568" />
 
     <meta name="theme-color" content="#4a5568" />
+    <script webc:keep defer data-domain="stella.amorc.org.au" src="https://plausible.io/js/script.js"></script>
   </head>
   <body class="flex flex-col min-h-screen w-full max-w-screen-2xl" data-env="{{ node.env }}">
     <site-header></site-header>
