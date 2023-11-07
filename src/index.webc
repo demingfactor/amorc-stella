@@ -5,12 +5,35 @@ meta:
   desc:
     'AMORC Austral-asia regional convention - Adelaide, AU | Auckland, NZ | Singapore, SG'
 ---
-<section class="relative flex flex-col items-center justify-start gap-16 grow bg-blue-650 bg-stella-lattice overflow-clip">
+<section class="relative flex flex-col items-center justify-start gap-16 grow bg-blue-650 bg-stella-lattice overflow-clip pb-8">
   <img class="max-w-none w-256 -m-4" src="https://res.cloudinary.com/amorc/image/upload/v1678161343/amorc_stella/stella_milky-way-revised_u0tqo2.svg" alt="Stylised Milky Way Graphic">
   <img class="w-128 p-2 xs:p-8 xs:pb-2" src="https://res.cloudinary.com/amorc/image/upload/v1678161342/amorc_stella/stella_hero-title-stella2024_mzwy0l.svg" alt="Stella Convention Logo">
   <div class="h-64 w-full">
-    <iframe class="w-full h-full" src="https://player.vimeo.com/video/851527203?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="AMORC Australasia Convention"></iframe>
+    <iframe class="w-full h-full outline-none" src="https://player.vimeo.com/video/881920364?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="AMORC Australasia Convention"></iframe>
   </div>
   <a href="https://events.humanitix.com/amorc-stella-conference-2024/tickets" class="text-white bg-red-1000 hover:bg-red-600 font-bold rounded px-8 py-2">Register Now</a>
   <!-- <img class="hidden xs:block absolute -rotate-90 bottom-0 -left-8 mb-24" src="https://res.cloudinary.com/amorc/image/upload/v1678165887/amorc_stella/stella-vine-white_yl9cr7.svg" alt="Vines Flourish"> -->
+</section>
+<section class="bg-blue-900">
+  <div class="w-full h-4 bg-stella-lattice"></div>
+  <div class="flex gap-2 flex-wrap justify-center px-4 py-12">
+    <a class="block w-96 drop-shadow-xl" href="https://amorc-public.s3.ap-southeast-2.amazonaws.com/pdf/Stella2024-brochure_spread.pdf">
+      <img src="https://res.cloudinary.com/amorc/image/upload/v1699319561/amorc_stella/stella-brochure-cover_shxlrw.png" alt="Stella 2024 Brochure">
+      <span class="text-white text-lg ml-2 underline">View/download the Brochure</span>
+    </a>
+    <a class="block w-96 drop-shadow-xl" href="https://amorc-public.s3.ap-southeast-2.amazonaws.com/pdf/Stella2024-program_spread.pdf">
+      <img src="https://res.cloudinary.com/amorc/image/upload/v1699319561/amorc_stella/stella-program-cover_lqp15a.png" alt="Stella 2024 Program">
+      <span class="text-white text-lg ml-2 underline">View/download the Program</span>
+    </a>
+  </div>
+</section>
+<section class="flex justify-center bg-blue-650">
+  <div class="flex flex-col items-center max-w-screen-lg text-center pt-4 md:pt-8 p-2 pb-12">
+    <h2 class="text-3xl md:text-5xl text-white pb-2">Join the Imperator</h2>
+    <h3 class="text-xl md:text-2xl text-white pb-4 md:pb-8">
+      Imperator Claudio Mazzucco will be launching his new book <em>I Saw Your Light From Afar</em>.
+      Get first access only at STELLA2024.
+    </h3>
+    <img class="max-w-auto md:max-w-screen-md" src="https://res.cloudinary.com/amorc/image/upload/v1699329717/amorc_stella/imperator-claudio-mazzucco-and-new-book-cover-i-saw-your-light-from-afar_twh68u.png" alt="I Saw Your Light from Afar - Claudio Mazzucco">
+  </div>
 </section>
