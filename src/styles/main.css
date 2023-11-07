@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-display: swap;
+  font-family: Merriweather;
+  font-style: normal;
+  font-weight: normal;
+  src: url("https://res.cloudinary.com/amorc/raw/upload/v1627952189/fonts/Merriweather-Regular-stripped_v7ec8w.woff2") format("woff2"),
+    url("https://res.cloudinary.com/amorc/raw/upload/v1627952188/fonts/Merriweather-Regular-stripped_gabfhz.ttf") format("truetype");
+}
